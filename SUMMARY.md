@@ -1,18 +1,11 @@
-# Table of content
+# Summary
 
+* [Introduction](README.md)
 * Part I - About
-
   * About Me
   * Dream
   * Todo List
-
-* Part II - Diary
-
-  * July 20th,2017
-
-  * July 21th,2017
-
+* [Part II - Diary](part-ii-diary.md)
+  * [July 20th,2017](july-20th2017.md)
 * Part III - World
-
-
 
